@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.6)  4 JUN 2023 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.6)  18 JUN 2023 17:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -178,27 +178,64 @@ Package: relsize 2013/03/29 ver 4.1
 \c@algocf=\count278
 \algocf@algoframe=\box59
 \algocf@algobox=\box60
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen166
+\captionmargin=\dimen167
+\caption@leftmargin=\dimen168
+\caption@rightmargin=\dimen169
+\caption@width=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
+) (c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count281
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count282
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count279
+\l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box61
 ) (./pset1.aux)
 \openout1 = `pset1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -234,27 +271,128 @@ LaTeX Font Info:    ... okay on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen174
+\scratchbox=\box62
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen175
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks30
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--110
 
  []
 
 [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./pset1.aux) ) 
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
+
+[2]
+<./code/weighted_logistic_reg//res_50_tau_0point1.png, id=18, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_50_tau_0point1.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_50_tau_0point1.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_50_tau_0point1.png  used on input line 126.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_100_tau_0point1.png, id=20, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_100_tau_0point1.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_0point1.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_0point1.png  used on input line 133.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_200_tau_0point1.png, id=21, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_200_tau_0point1.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_200_tau_0point1.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_200_tau_0point1.png  used on input line 140.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_100_tau_0point01.png, id=22, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_100_tau_0point01.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_0point01.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_0point01.png  used on input line 152.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_100_tau_0point05.png, id=23, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_100_tau_0point05.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_0point05.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_0point05.png  used on input line 159.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+File: ./code/weighted_logistic_reg//res_100_tau_0point1.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_0point1.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_0point1.png  used on input line 166.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_100_tau_0point5.png, id=24, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_100_tau_0point5.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_0point5.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_0point5.png  used on input line 175.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_100_tau_1.png, id=25, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_100_tau_1.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_1.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_1.png  used on input line 182.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+<./code/weighted_logistic_reg//res_100_tau_5.png, id=26, 462.528pt x 346.896pt>
+File: ./code/weighted_logistic_reg//res_100_tau_5.png Graphic file (type png)
+<use ./code/weighted_logistic_reg//res_100_tau_5.png>
+Package pdftex.def Info: ./code/weighted_logistic_reg//res_100_tau_5.png  used on input line 189.
+(pdftex.def)             Requested size: 140.92793pt x 105.69461pt.
+ [3
+
+ <./code/weighted_logistic_reg//res_50_tau_0point1.png> <./code/weighted_logistic_reg//res_100_tau_0point1.png> <./code/weighted_logistic_reg//res_200_tau_0point1.png> <./code/weighted_logistic_reg//res_100_tau_0point01.png> <./code/weighted_logistic_reg//res_100_tau_0point05.png> <./code/weighted_logistic_reg//res_100_tau_0point5.png> <./code/weighted_logistic_reg//res_100_tau_1.png> <./code/weighted_logistic_reg//res_100_tau_5.png>] [4
+
+]
+Overfull \hbox (64.64993pt too wide) detected at line 303
+[]
+ []
+
+[5
+
+] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+[7
+
+] (./pset1.aux) ) 
 Here is how much of TeX's memory you used:
- 3433 strings out of 476001
- 53007 string characters out of 5793192
- 1851068 words of memory out of 5000000
- 23928 multiletter control sequences out of 15000+600000
- 513190 words of font info for 35 fonts, out of 8000000 for 9000
+ 5881 strings out of 476001
+ 98491 string characters out of 5793192
+ 1871068 words of memory out of 5000000
+ 26311 multiletter control sequences out of 15000+600000
+ 520781 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,62p,358b,117s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on pset1.pdf (1 page, 28589 bytes).
+ 57i,16n,63p,379b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on pset1.pdf (7 pages, 251356 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
