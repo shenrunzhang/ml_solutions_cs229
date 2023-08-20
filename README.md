@@ -11,7 +11,7 @@ This project involves using reinforcement learning to solve the inverted pendulu
 
 The system is determined to have failed if the pole falls over or if the cart has moved beyond its limited space. Each time failure is encountered, the pole-cart system is reset with an updated value function. The performance of the model over 207 failures showing the number of actions the model took before failure occured is plotted below. 
 
-![](https://github.com/shenrunzhang/ml_solutions_cs229/blob/main/problemset_solutions/code/cartpole_qlearning/control.pdf)
+![](https://github.com/shenrunzhang/ml_solutions_cs229/blob/main/problemset_solutions/code/cartpole_qlearning/performance_plot.jpg)
 
 
 ## Weighted Logisitic Regression
